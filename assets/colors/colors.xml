@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="grey" type="material">#999999</color>
+    <color name="primaryColor">#000000</color>
+    <color name="lightGrey">#e6e6e6</color>
+    <color name="disableButtonColor">#E08080</color>
+    <color name="greyTextColor">#999999</color>
+    <color name="gridGrey">#f7f7f7</color>
+    <color name="errorColor">#EB5757</color>
+    <color name="successColor">#27AE60</color>
+    <color name="warningColor">#FFB900</color>
+    <color name="disableColor">#E08080</color>
+    
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "261477624851",
+    "project_id": "findmypet-25102",
+    "storage_bucket": "findmypet-25102.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261477624851:android:24e6c63c703969ab0da3e6",
+        "android_client_info": {
+          "package_name": "com.myapp.find_my_pet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX0f0cxz4G-usSmIRd2jMPtIjSu1_yziY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
